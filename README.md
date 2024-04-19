@@ -12,5 +12,4 @@ For grade 3 you have to create a class which processes one line of the file with
 <br> **For the sample hle the answer is 7000.**
 
 For grade 5: Is there any month where nothing was paid to TelenorKft?
-
 <br> **For the sample file the arswer is no.**
