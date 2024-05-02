@@ -1,4 +1,6 @@
 # Task
+![picture](https://github.com/laiba1025/Csharp-OOP/assets/123197772/8efc5fcb-e1da-4db5-b2a3-94ed2378f112)
+
 
 ### Home database of bills is stored in a textfile. A data entry consists of the month, the provider's name (one word), and the paid amount. The file is ordered by date.
 
