@@ -1,0 +1,7 @@
+2023/05/07 cheeseburger 1210
+2023/05/07 BigMac 450
+2023/06/12 McChicken 223
+2023/06/12 McChicken 123
+2023/06/12 McChicken 13
+2023/05/12 cheeseburger 2311
+2023/05/12 McChicken 1223
