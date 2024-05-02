@@ -2,10 +2,10 @@
 ![PhoneBooth2](https://github.com/laiba1025/Csharp-OOP/assets/123197772/ed11f474-e6d8-49f0-92a6-86b04eebd26d)
 
 
-### Home database of bills is stored in a textfile. A data entry consists of the month, the provider's name (one word), and the pald amount. The file is ordered by date.
+### Home database of bills is stored in a textfile. A data entry consists of the month, the provider's name (one word), and the paid amount. The file is ordered by date.
 
 **A sample file:**
-<br> S TclenorKft 3500
+<br> S TelenorKft 3500
 <br> 5 MVMZrt 5432
 <br> 7 TelenorKft 3500
 <br> 7 SzemětKt 2300
