@@ -1,4 +1,5 @@
 # Task
+![360_F_581865035_1PZe6tA9LNqGJ942w8jQmQXzjMrLQlrm](https://github.com/laiba1025/Csharp-OOP/assets/123197772/881e4888-9ac9-4466-9f3b-c7c376c2a619)
 
 ### The selling statistics of OBI are stored in a textfile. A data entry consists of the date, the name of the department (one word), and the total income of that department on that day. The file is ordered by date.
 
