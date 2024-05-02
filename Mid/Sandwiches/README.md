@@ -1,7 +1,5 @@
 # Task
-![comedy-food-funny-sandwich-generated-by-ai_906809-1091](https://github.com/laiba1025/Csharp-OOP/assets/123197772/8584b9ab-9ae4-4c9b-83c9-7bb089ef3a9f)
-
-
+![image](https://github.com/laiba1025/Csharp-OOP/assets/123197772/06d47f58-48bb-4322-9df4-0e1d92591161)
 ### The selling statistics of Sandwiches are stored in a textfile. A data entry consists of the date, the name of the sandwich, and the quantity sold of the sandwich on that day.
 
 **A sample file:**
