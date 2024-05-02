@@ -1,4 +1,5 @@
 # Task
+!(https://github.com/laiba1025/Csharp-OOP/assets/123197772/094fbccd-6b4d-4737-befe-68c7eea473d8)
 
 ### The selling statistics of Sandwiches are stored in a textfile. A data entry consists of the date, the name of the sandwich, and the quantity sold of the sandwich on that day.
 
