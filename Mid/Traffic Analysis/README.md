@@ -1,5 +1,5 @@
 # Task
-![LA-not-ATL](https://github.com/laiba1025/Csharp-OOP/assets/123197772/cc9f42d7-723a-4204-91b2-4289f3fd8bf3)
+![image](https://github.com/laiba1025/Csharp-OOP/assets/123197772/93f19049-9f4a-4ba5-ac14-8bf64d7ea56e)
 
 ### Traffic analysis data of a highway in 2023 is stored in a textfile. A data entry consists of the month, the day, and the number of vehicles observed on that day. Due to some errors, there are no observations from every day of the year. The file is ordered by month and day.
 
