@@ -17,7 +17,5 @@
 <br> For grade 3 you have to create a **class which processes one line of the file with a Read() method.**
 
 **For grade 5:** Which was the busiest month where the total number of vehicles was the highest?
-
 <br> **For the sample file the answer is 3.**
-
 <br> For grade 5 you have to create a **custom enumerator class with operations First, Next, Current, and End** to process the content of the file. All the algorithms have to be **algorithmic pattern-based** as it was taught on the labs.
