@@ -1,0 +1,8 @@
+1 Jhon 30000
+1 Don 2000
+1 Jhon 20000
+2 Don 500000
+2 Jhon  5000
+3 Jhon 6000
+3 Jhon 600
+
