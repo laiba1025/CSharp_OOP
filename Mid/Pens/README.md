@@ -1,26 +1,22 @@
 # Task
-![image](https://github.com/laiba1025/Csharp-OOP/assets/123197772/703d933b-311a-4b10-92d2-6821c14013eb)
-### The income statistics of persons are stored in a textfile. A data entry consists of the month, the name of the person, and the income of that person during that month. The file is ordered by date.
+
+### Database of a pen store is stored in a text file. One database element consists of the brand of the pen, the color of the pen and the number of pieces the store has of this pen.
+#### The file is ordered by brand and you can suppose that it is not empty. One color of one brand cannot be found in multiple lines.
 
 **A sample file:**
-<br> Parker
-<br> 2 Johnny 500000
-<br> 3 Susie 20000
-<br> 3 Johnny 10000
-<br> 3 Ronnie 20000
-<br> 3 Johnny 10000
-<br> 4 Johnny 500000
-<br> 6 Johnny 45000
+<br> Parker red 40
+<br> Parker blue 70
+<br> Stabilo green 20
+<br> Stabilo blue 5
+<br> Stabilo orange 20
 
-For grade 3 you have to create a class which processes one line of the file with a ReadD method. For grade 3: Is there any month where Jhonny earned more than 40,000?
-<br> **For the sample file the answer is yes.**
+**For grade 3** Has the store run out of Stabilo and later pens according to the file? Run out of means that there are less than 5 pieces of each color. You have to define a method for reading from the file and you have to create an algorithm which is based on the general algorithm of the algorithmic patterns.
+<br> **For the sample file the answer is no.**
 
-For grade 5: Check if Jhonny earned less than 30,000 each month?
-<br> **For the sample file the answer is no**
+**For grade 5:** Which brands have more than 70 pens in the database? You have to create a class with methods first(), next(), current(), and end() for enumerating the total number of pens for each brand. Other public methods cannot be created for this class.
+<br> **In the sample file the output is Parker**
 
-For grade 5 you have to create a custom enumerator class with operations First, Next,
-Current, and End to process the content of the file. All the algorithms have to be algorithmic
-pattern-based as it was taught on the labs.
+**Requirements for both levels:** You cannot store multiple lines of the file and you can open the file only once.
 
 
 
