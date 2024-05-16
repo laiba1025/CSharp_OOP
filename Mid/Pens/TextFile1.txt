@@ -1,0 +1,5 @@
+Parker red 40
+Parker blue 70
+Stabilo green 20
+Stabilo blue 5
+Stabilo orange 20
