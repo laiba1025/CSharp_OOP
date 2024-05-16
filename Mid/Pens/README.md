@@ -1,5 +1,5 @@
 # Task
-
+![image](https://github.com/laiba1025/CSharp_OOP/assets/123197772/b2fb5093-f93c-4006-b874-e961aa0e033d)
 ### Database of a pen store is stored in a text file. One database element consists of the brand of the pen, the color of the pen and the number of pieces the store has of this pen.
 #### The file is ordered by brand and you can suppose that it is not empty. One color of one brand cannot be found in multiple lines.
 
