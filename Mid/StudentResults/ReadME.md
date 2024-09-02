@@ -15,5 +15,5 @@ For grade 3: How many Excellent (5) grades there were after the first fail (1)? 
 <br> **For the sample file the answer is 1.**
 
 For grade 5: What is the highest number of attempts that a student has taken? You have to create a class with methods first(), next(), current(), and end() for enumerating the number of attempts for each student. Other public methods cannot be created for this class.
-<br> **F the sample file AAAAAA had 2 attempts, the other students had 1, so the answer is 2**
+<br> **For the sample file AAAAAA had 2 attempts, the other students had 1, so the answer is 2**
 
