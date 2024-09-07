@@ -1,5 +1,5 @@
 # Task
-![image](https://github.com/laiba1025/Csharp-OOP/assets/123197772/703d933b-311a-4b10-92d2-6821c14013eb)
+![Not So EasySemester](https://github.com/user-attachments/assets/f1d87ae8-03cf-435e-974e-764ac1b8b348)
 ### Database of a university is stored in a text file. One line of the file consists of the semester, the neptun code of the professor, and how many class hours the professor has spent with teaching in that semester. The file is ordered by semester, and you can suppose that it is not empty.
 
 **A sample file:**
