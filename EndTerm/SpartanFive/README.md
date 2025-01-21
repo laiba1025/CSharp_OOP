@@ -4,4 +4,5 @@
 1. Define the winner of a category for a given gender.
 2. Decide if a competitor has won in a given category in his/her gender.
 
-![image](https://github.com/user-attachments/assets/90e003b3-fc07-46c1-9e5f-7b19963715fe)
+![image](https://github.com/user-attachments/assets/bcb8cb6e-63b8-4201-876e-bd3b1db04bb6)
+
