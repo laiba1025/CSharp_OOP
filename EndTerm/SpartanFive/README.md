@@ -3,3 +3,5 @@
 ### The new and modified questions to answer: 
 1. Define the winner of a category for a given gender.
 2. Decide if a competitor has won in a given category in his/her gender.
+
+![image](https://github.com/user-attachments/assets/90e003b3-fc07-46c1-9e5f-7b19963715fe)
