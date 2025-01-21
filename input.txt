@@ -1,6 +1,0 @@
-3
-Earth   1
-Hugin   Destroyer 3   3   3
-Venus   1
-Munin   Transport  1   1   1
-Mars    0
