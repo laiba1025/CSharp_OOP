@@ -26,5 +26,5 @@ voted for it, Mr. Stayne has voted against, and Miss Smith has not voted.
 #### Output: 
 The valid laws’ ID has to be printed out with whitespace at the end. 
 If there is not any valid law, the none word has to be printed. 
-Sample output: 
+#### Sample output: 
 NORM12 ABC123 
