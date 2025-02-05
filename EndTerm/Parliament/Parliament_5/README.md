@@ -24,7 +24,7 @@ John Smith Jane Smith Damien Stayne Johannes Hartl
 <br> Constitutional ABC234 2022.02.05 yes abst yes no 
 <br> Normal NORM13 2022.03.01 no no no no 
 #### Output: 
-<br> First line of the output should contain the IDs of the valid laws with whitespace at the end, or the none word. 
+First line of the output should contain the IDs of the valid laws with whitespace at the end, or the none word. 
 <br> The 2nd line should contain the answer of question a) after doing the voting. 
 <br> The 3rd line should contain the answer of question b) with whitespace at the end after running the Reject() method. If there is no valid law left, the none word should be printed. 
 <br> The 4th line should contain the answer for question d) (yes/no) 
