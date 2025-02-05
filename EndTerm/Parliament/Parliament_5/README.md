@@ -2,8 +2,8 @@
 Extend the solution with the following things: 
 ##### Excellent 
 a) Create a method which calculates how many congressmen have abstained al least twice. 
-b) The parliament rejects those draft laws that has all the votes but are invalid. Create a method which deletes the rejected draft laws. 
-c) The congressmen can enter and leave any party. Create the necessary methods based on the plan. 
+<br> b) The parliament rejects those draft laws that has all the votes but are invalid. Create a method which deletes the rejected draft laws. 
+<br> c) The congressmen can enter and leave any party. Create the necessary methods based on the plan. 
 Decide if there was any draft law for which every member of a given party has abstained. Consider only those parties which have at least one member.   
 The plan:
 ![image](https://github.com/user-attachments/assets/6313c077-03bd-4035-99d9-ce97f816fc4b)
