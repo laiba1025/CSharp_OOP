@@ -3,4 +3,5 @@ Model a race of Spartan Race Hungary. The race has a place and an organization y
 1. Give the most popular category in which the greatest number of competitors have finished. 
 2. Define the winner of a category.
 An UML class diagram is given, which solves the given task, implement it! The diagram is attached in vector graphic format, too. Note that this plan does not satisfy the SOLID principles of OOP.
+
 ![image](https://github.com/user-attachments/assets/d5555f91-0df2-4ffa-8bc3-72bd81c63b49)
