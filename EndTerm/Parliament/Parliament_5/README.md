@@ -30,6 +30,6 @@ John Smith Jane Smith Damien Stayne Johannes Hartl
 <br> The 4th line should contain the answer for question d) (yes/no) 
 #### Sample output: 
 NORM12 ABC123  
-<br> 1 
+1 
 <br> NORM12 ABC123 ABC124 ABC234 
 <br> no
