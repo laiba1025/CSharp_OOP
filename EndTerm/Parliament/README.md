@@ -14,12 +14,13 @@ the votes means equal number of votes to the number of congressmen. The abstain 
 congressman has not voted and it does not count into the final result. 
 
 #### Sample input: 
-John Smith Jane Smith Damien Stayne Johannes Hartl 
-Normal NORM12 2022.01.34 abst abst yes abst 
-Constitutional ABC123 2022.02.01 yes yes no yes 
-Cardinal ABC124 2022.02.02 yes abst no yes 
-Constitutional ABC234 2022.02.05 yes abst yes no 
-Explanation: 
+<br> John Smith Jane Smith Damien Stayne Johannes Hartl 
+<br> Normal NORM12 2022.01.34 abst abst yes abst 
+<br> Constitutional ABC123 2022.02.01 yes yes no yes 
+<br> Cardinal ABC124 2022.02.02 yes abst no yes 
+<br> Constitutional ABC234 2022.02.05 yes abst yes no 
+
+#### Explanation: 
 The 3rd draft law is a cardinal law with ID ABC124 and date 2022.02.01, where Mr. Smith and Mr. Hartl have 
 voted for it, Mr. Stayne has voted against, and Miss Smith has not voted.  
 
