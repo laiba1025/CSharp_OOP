@@ -14,7 +14,7 @@ the votes means equal number of votes to the number of congressmen. The abstain 
 congressman has not voted and it does not count into the final result. 
 
 #### Sample input: 
-<br> John Smith Jane Smith Damien Stayne Johannes Hartl 
+John Smith Jane Smith Damien Stayne Johannes Hartl 
 <br> Normal NORM12 2022.01.34 abst abst yes abst 
 <br> Constitutional ABC123 2022.02.01 yes yes no yes 
 <br> Cardinal ABC124 2022.02.02 yes abst no yes 
