@@ -29,3 +29,5 @@ The valid laws’ ID has to be printed out with whitespace at the end.
 If there is not any valid law, the none word has to be printed. 
 #### Sample output: 
 NORM12 ABC123 
+
+### I’ve already unlocked the task of Grade 3. Now it's your turn to conquer Grade 5 like a pro! ⏳ Grab a clock, channel your inner genius, and walk out of that exam like a legend! No more spoon-feeding—time to feast on knowledge! 😎📚🔥"
