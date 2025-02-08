@@ -10,8 +10,6 @@ https://drive.google.com/file/d/1YKgBW7GYZkhKp0ttsRj3V1DY_msz4ud8/view
 
 ![image](https://github.com/user-attachments/assets/6313c077-03bd-4035-99d9-ce97f816fc4b)
 
-https://drive.google.com/file/d/1YKgBW7GYZkhKp0ttsRj3V1DY_msz4ud8/view
-
 #### Input: 
 The first line stores the name of the congressmen. 
 <br> The second line stores the name of the parties. 
