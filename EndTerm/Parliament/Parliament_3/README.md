@@ -3,6 +3,7 @@ A parliament has a lot of congressmen. The task of the congressmen is to vote fo
 After voting, decide which laws are accepted and print their ID to the console!
 
 https://drive.google.com/file/d/1PvrWPr1wdYGjmKw2ndeR5vZrvyU3NAIb/view?usp=sharing
+
 ![image](https://github.com/user-attachments/assets/96aafde8-5d7c-4d9e-b52d-e9a8f498dde1)
 
 #### Input: 
