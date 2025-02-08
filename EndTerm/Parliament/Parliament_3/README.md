@@ -2,7 +2,7 @@
 A parliament has a lot of congressmen. The task of the congressmen is to vote for or against draft laws. A draft law can be of 3 types: normal, cardinal, or constitutional. There are different rules to accept these draft laws. 
 After voting, decide which laws are accepted and print their ID to the console!
 
-https://drive.google.com/file/d/1PvrWPr1wdYGjmKw2ndeR5vZrvyU3NAIb/view?usp=sharing
+[https://drive.google.com/file/d/1PvrWPr1wdYGjmKw2ndeR5vZrvyU3NAIb/view?usp=sharing](https://drive.google.com/drive/folders/1-LaFMImRTQgMf_3MlqNNm1q4GKCSNOzC?usp=drive_link)
 
 ![image](https://github.com/user-attachments/assets/96aafde8-5d7c-4d9e-b52d-e9a8f498dde1)
 
