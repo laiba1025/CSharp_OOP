@@ -6,9 +6,10 @@ a) Create a method which calculates how many congressmen have abstained al least
 <br> c) The congressmen can enter and leave any party. Create the necessary methods based on the plan. 
 <br> Decide if there was any draft law for which every member of a given party has abstained. Consider only those parties which have at least one member.   
 The plan:
-https://drive.google.com/file/d/1YKgBW7GYZkhKp0ttsRj3V1DY_msz4ud8/view
 
 ![image](https://github.com/user-attachments/assets/6313c077-03bd-4035-99d9-ce97f816fc4b)
+
+https://drive.google.com/file/d/1YKgBW7GYZkhKp0ttsRj3V1DY_msz4ud8/view
 
 #### Input: 
 The first line stores the name of the congressmen. 
