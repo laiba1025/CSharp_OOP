@@ -1,0 +1,13 @@
+﻿3
+Kostava 3
+Museum 8 3 10 1987 n
+Castle 2 8 40 1675 n xs 12
+Cathedral 1 4 24 1878 y abx 40
+VeriPlani 3
+Museum 3 1 12 1927 n
+Castle 4 5 38 1674 n
+Cathedral 4 5 24 1278 n
+Aspindza 3 
+Museum 2 3 10 1387 n
+Castle 4 5 40 1575 n
+Cathedral 3 2 84 1678 n 
