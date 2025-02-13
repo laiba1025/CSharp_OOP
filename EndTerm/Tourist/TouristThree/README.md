@@ -1,3 +1,4 @@
+### TOURIST SATISFACTORY
 Given a city which consists of districts. Each district has a name and its wonders. A wonder max be a museum, cathedral, or castle. A wonder has x and y coordinates, its year of construction, and its level of interest. The expected time spent at each wonder is calculated as a factor number multiplied by its level of interest. 
 The factor is calculated as in the following plan. Implement the following plan and answer the following questions: 
 1. How much is the biggest distance between two wonders in a district? 
