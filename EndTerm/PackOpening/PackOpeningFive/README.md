@@ -4,6 +4,6 @@ increased by 4, an attacker’s shots are greater by 2, and a midfielder’s num
 The cost for each special card is also increased by the above detailed number. 
 
 For each card it has to be given if it is special or not. The properties are calculated based on the type of specialty. 
-<br>• How much the most expensive special card’s player cost? 
+                      <br>• How much the most expensive special card’s player cost? 
 
 An UML class diagram is given, which solves the given task, implement it! The diagram is attached in vector graphic format, too. Note that this plan does not satisfy the SOLID principles of OOP.
