@@ -7,3 +7,6 @@ For each card it has to be given if it is special or not. The properties are cal
                       <br>• How much the most expensive special card’s player cost? 
 
 An UML class diagram is given, which solves the given task, implement it! The diagram is attached in vector graphic format, too. Note that this plan does not satisfy the SOLID principles of OOP.
+![image](https://github.com/user-attachments/assets/b4f622cf-cbb1-4806-a9db-945d2cca0156)
+
+Parts to modify: CardType class, its children, and its relations, MyCard’s MostExpensiveSpecialCost() function, Card’s and its children’s constructor, Card’s getter for CardType.
