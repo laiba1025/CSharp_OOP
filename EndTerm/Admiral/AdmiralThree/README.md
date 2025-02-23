@@ -1,4 +1,4 @@
-For Grade 3 
+### For Grade 3 
 Long time ago in a galaxy far-far away there was a war between the Galactic Empire and the Separatists. The goal is to simulate the battles between these two forces. 
 
 <br>We can create battles with the place (planet name), an attacker ship, and a defender ship. We also register the party of the attacker. Later, other ships may join the battle. We can initiate the battle where every attacker attacks an alive defender, then the defenders do a counterattack. We can get the result of a battle. A battle is won by a party if every enemy is destroyed. We also return the number of alive ships from a given party. The number of total destroyed ships can be calculated, too. 
